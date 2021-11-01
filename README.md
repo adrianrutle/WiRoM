@@ -20,7 +20,7 @@ It is highly highly recommended to have a bash-like terminal installed if you us
 ### Running the system
 Clone the repository to your local machine using the command: 
 ```
-git clone https://github.com/joakimgrutle/Multi-robot-mission-planner.git
+git clone https://github.com/adrianrutle/WiRoM.git
 ```
 This system is a web application, and uses a server-client setup for communicating between the browser and the simulation. This means we need to run the server and the client in order to run the system.
 
